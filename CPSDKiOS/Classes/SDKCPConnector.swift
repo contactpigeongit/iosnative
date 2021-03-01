@@ -82,7 +82,7 @@ public extension UIDevice {
 
 public class CPMainParameters: NSObject {
     public static let shared: CPMainParameters = CPMainParameters()
-    public var cpSubmitDataEndpoint = "https://plato.contactpigeon.com/bi/atlantis/various/0587d93972144bd394f77eca8e2cecdd_cordova/"
+    public var cpSubmitDataEndpoint = "https://plato.contactpigeon.com/bi/atlantis/various/0587d93972144bd394f77eca8e2cecdd/"
     public var cptoken = ""
     public var cuem = ""
     public var oldcuem = ""
