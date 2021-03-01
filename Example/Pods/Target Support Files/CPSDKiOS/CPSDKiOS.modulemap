@@ -1,0 +1,6 @@
+framework module CPSDKiOS {
+  umbrella header "CPSDKiOS-umbrella.h"
+
+  export *
+  module * { export * }
+}

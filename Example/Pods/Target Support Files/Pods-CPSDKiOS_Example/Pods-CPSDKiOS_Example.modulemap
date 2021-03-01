@@ -1,0 +1,6 @@
+framework module Pods_CPSDKiOS_Example {
+  umbrella header "Pods-CPSDKiOS_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
